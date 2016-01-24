@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloRs</string>
+    <string name="btn_label_more">more</string>
+    <string name="btn_label_cancel">cancel</string>
+    <string name="main_btn_label_grey">Grey</string>
+    <string name="main_btn_label_invert">Invert</string>
+    <string name="main_btn_label_blur">Blur</string>
+    <string name="main_btn_label_edge">Edge</string>
+</resources>
